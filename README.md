@@ -1,2 +1,2 @@
 # StudentDetails
- Example illustratinf fragments
+ Example illustrating fragments and fragment transaction
